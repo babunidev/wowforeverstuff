@@ -1,5 +1,7 @@
 # WoW Forever: Talent Design Atlas
 
+**Author:** Babuni.dev
+
 **Complete expanded edition | All nine original classes | 27 talent trees | 466 talents | October 2026 beta snapshot**
 
 A field guide to mechanical variety in World of Warcraft Forever talent design. It began with one question about **Protection Warrior**: *when I spend a point to improve an ability, does that ability actually gain something new?*
