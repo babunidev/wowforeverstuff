@@ -1341,3 +1341,11 @@ These are **illustrative design concepts, not final or balance-tested tooltips**
 ## Design principle
 
 **Not necessarily more powerful talents. More talents that give players new things to do.** Interactions, decisions, combat reactions, and moments of discovery can make spending a talent point feel like learning something. Numerical improvements still have a place, but shouldn't be the dominant form of character development.
+
+## Development documentation
+
+- [Concept](CONCEPT.md) · [Roadmap](ROADMAP.md) · [Changelog](CHANGELOG.md)
+- [Architecture](docs/ARCHITECTURE.md) · [Design evidence](docs/DECISIONS.md) · [Development journal](docs/DEVLOG.md)
+- [AI collaborator rules](AGENTS.md)
+
+The journal distinguishes source-based reconstruction, author direction, AI assistance, and independently verified behavior.
