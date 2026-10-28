@@ -1349,3 +1349,8 @@ These are **illustrative design concepts, not final or balance-tested tooltips**
 - [AI collaborator rules](AGENTS.md)
 
 The journal distinguishes source-based reconstruction, author direction, AI assistance, and independently verified behavior.
+
+
+## Documentation completion — 2026-10-28
+
+This atlas is a historical October 2026 beta study of **mechanical interest**, not a current class-power ranking. The original 466 classifications and illustrative redesigns have not been changed. Supporting documentation: [editorial design](docs/DESIGN.md), [research inventory](docs/CONTENT.md), and [human–AI collaboration](docs/AI_COLLABORATION.md). Fresh tooltip verification, a full classification recount and PDF parity checks remain outstanding.
